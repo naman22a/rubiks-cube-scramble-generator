@@ -18,4 +18,4 @@
 
 ## License
 
-[MIT LICENSED](https://github.com/namanArora1022/rubiks-cube-scramble-generator-website/blob/master/LICENSE)
+[MIT LICENSED](https://github.com/namanArora1022/rubiks-cube-scramble-generator/blob/master/LICENSE)
