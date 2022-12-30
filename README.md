@@ -15,3 +15,7 @@
 #### Supported puzzles are
 
 2x2 , 3x3 , 4x4 , 5x5 , 6x6 , 7x7
+
+## License
+
+[MIT LICENSED](https://github.com/namanArora1022/rubiks-cube-scramble-generator-website/blob/master/LICENSE)
