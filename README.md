@@ -5,7 +5,7 @@
 #### Get item
 
 ```http
-  GET https://https://rubiks-cube-scramble-generator.up.railway.app//api?puzzleType=${puzzleType}
+  GET https://rubiks-cube-scramble-generator.onrender.com//api?puzzleType=${puzzleType}
 ```
 
 | Parameter    | Type     | Description                                          |
